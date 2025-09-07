@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiscordProjectSettings">
+    <option name="show" value="PROJECT_FILES" />
+    <option name="description" value="" />
+    <option name="applicationTheme" value="default" />
+    <option name="iconsTheme" value="default" />
+    <option name="button1Title" value="¡Aprende a hacer Plugins!" />
+    <option name="button1Url" value="https://www.youtube.com/channel/UC0gQFgYOu7AMyhKNSYdBj9Q" />
+    <option name="button2Title" value="Mis plugins" />
+    <option name="button2Url" value="https://www.spigotmc.org/members/system32_.1530022/#resources" />
+    <option name="customApplicationId" value="" />
+  </component>
+</project>
